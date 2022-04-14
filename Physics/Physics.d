@@ -1,0 +1,2 @@
+define Accelaration
+define Mass
